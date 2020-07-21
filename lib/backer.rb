@@ -1,4 +1,4 @@
-class Baker 
+class Baker
 
 def initialize(name)
   @name=name
